@@ -1,4 +1,5 @@
 crash-course/demo-solutions/*.png
+crash-course/*/solutions/*.png
 workshop/plotting/*.png
 workshop/data-fitting/*.txt
 workshop/advanced-functions-parallelization/__pycache__
